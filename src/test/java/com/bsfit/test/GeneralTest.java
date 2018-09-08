@@ -11,5 +11,6 @@ public class GeneralTest {
     public void test(){
         System.out.println("11");
         System.out.println("我要测试git哦");
+        System.out.println("我要测试git哦2");
     }
 }
